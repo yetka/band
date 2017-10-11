@@ -14,15 +14,32 @@ font-weight: bold;
 width: 50%;
 }
 
-img {
-    height: 350px;
-    width: 648px;
-    background-color: powderblue;
-}
-
 
 li.best {
   font-style: italic;
   color: orange;
   font-size: 20px;
+}
+
+.boring {
+  color: pink;
+}
+.main {
+  float: left;
+  color: powderblue;
+}
+.column {
+  width: 50%;
+  float: left;
+}
+.sidebar {
+  float: right;
+  height: 350px;
+  width: 648px;
+  background-color: powderblue;
+}
+img {
+    height: 350px;
+    width: 648px;
+    background-color: powderblue;
 }
