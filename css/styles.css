@@ -35,11 +35,11 @@ li.best {
 .sidebar {
   float: right;
   height: 350px;
-  width: 648px;
+  width: 500px;
   background-color: powderblue;
 }
 img {
-    height: 350px;
-    width: 648px;
+    height: 100px;
+    width: 200px;
     background-color: powderblue;
 }
