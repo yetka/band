@@ -37,9 +37,21 @@ li.best {
   height: 350px;
   width: 500px;
   background-color: powderblue;
+  margin: 30px;
+  border: 10px solid blue;
+  padding: 12px;
 }
 img {
     height: 100px;
     width: 200px;
     background-color: powderblue;
+    margin: 5px;
+    border: 10px solid grey;
+    padding: 3px;
+}
+.my-class {
+  margin: 30px;
+  border: 10px solid blue;
+  padding: 12px;
+  background-color: pink;
 }
