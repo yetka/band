@@ -35,7 +35,7 @@ li.best {
 .sidebar {
   float: right;
   height: 350px;
-  width: 500px;
+  width: 25%;
   background-color: powderblue;
   margin: 30px;
   border: 10px solid blue;
@@ -54,4 +54,6 @@ img {
   border: 10px solid blue;
   padding: 12px;
   background-color: pink;
+  width: 60%;
+
 }
